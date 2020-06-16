@@ -1,3 +1,4 @@
 <?php 
-  echo 'Hola Mundo';
+  $a = 'Martin';
+  echo 'Hola Mundo'. $a;
 ?>
